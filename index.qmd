@@ -1,11 +1,24 @@
 ---
-title: "ryan-callahan-energy.github.io"
+title: "Ryan Callahan"
+image: images/IMG_0069.jpg
+toc: false
+about: 
+  template: broadside
+  links: 
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/ryan-c-a2531410a/
+  - text: GitHub
+    href: https://github.com/ryan-callahan-energy
+  - text: Email
+    href: mailto:recallahan@ucdavis.edu
 ---
 
-This is a Quarto website.
+Hi There! I'm Ryan Callahan and you are on my personal website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here's more about my education:
 
-```{r}
-1 + 1
-```
+Hi There! I'm Ryan Callahan and you are on my personal website.
+
+Hi There! I'm Ryan Callahan and you are on my personal website.
+
+Hi There! I'm Ryan Callahan and you are on my personal website.
